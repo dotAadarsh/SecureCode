@@ -1,0 +1,17 @@
+body {
+  background-color: #141414;
+}
+
+.left-center-element {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
+
+.right-center-element {
+  position: absolute;
+  top: 50%;
+  right: 25%;
+  transform: translate(-50%, -50%);
+}
